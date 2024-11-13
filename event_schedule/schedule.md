@@ -1,9 +1,7 @@
+![Screenshot 2024-11-13 at 9 28 01 AM](https://github.com/user-attachments/assets/d2d4437d-960e-4c24-b21d-59ee5997108a)
 
 
-
-
-
-November 14th (Thursday) CHEB 170:
+**November 14th (Thursday) CHEB 170:**
 
 1:00 – 1:10 – Kick off (Dr. John M Archibald)
 
@@ -14,7 +12,10 @@ November 14th (Thursday) CHEB 170:
 3:00 – 5:00 - AI hands-on workshop (Dr. Gustavo Sganzerla Martinez)
 
 
-November 15th (Friday) CHEB 140/150:
+
+
+
+**November 15th (Friday) CHEB 140/150:**
 
 9:00 – 9:30 – Breakfast
 
@@ -36,7 +37,7 @@ November 15th (Friday) CHEB 140/150:
 
 (Dr. Thomas Trappenberg).
 
-    Moderated by
+_Moderated by_
 
 Dr. Christian Blouin
 
