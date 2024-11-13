@@ -1,4 +1,4 @@
-Content for the workshop on predicting genetic elements.
+Content for the workshop on predicting genomic elements with AI (promoter prediction).
 Part of the event: AI meets biology.
 
 Dalhousie University
